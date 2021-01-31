@@ -12,10 +12,19 @@ This project was developed during the **[Next Level Week](https://nextlevelweek.
 ## 🚀 Tecnologies
 This project was built with:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [handlebars](https://handlebarsjs.com/)
+<a href="https://handlebarsjs.com/">
+  <img alt="Handlebars" src="https://img.shields.io/badge/handlebars%20-%2320232a.svg?style=for-the-badge&logo=handlebars&color=orange" />
+</a>
+<a href="https://expressjs.com/pt-br/">
+  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS%20-%2320232a.svg?style=for-the-badge&logo=express&color=000" />
+</a>
+<a href="https://www.sqlite.org/index.html">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-%2320232a.svg?style=for-the-badge&logo=sqlite&color=003B57" />
+</a>
+<a href="https://nodejs.org/en/">
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%2320232a.svg?style=for-the-badge&logo=node.js&color=339933&logoColor=white" />
+</a>
+
 
 ### 🔵 Social
 <a href="https://www.linkedin.com/in/pedro-murilo-3ba7941b6/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
